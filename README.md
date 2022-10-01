@@ -11,6 +11,7 @@ Horiseon Website
 ![Horiseon photo](/Assets/01-html-css-git-homework-demo.png)
 
 ## Website Link
+https://timo9939.github.io/Timothy-Assignment1/
 
 ## Repository link
 https://github.com/timo9939/Timothy-Assignment1
