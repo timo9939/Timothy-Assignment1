@@ -8,7 +8,7 @@ This the project to show how to use semantic element in HTML, comment in CSS fil
 Horiseon Website 
 
 
-![Horiseon photo](UBHM-BRM-FSF-PT-09-2022-U-C-main-activities-01-HTML-Git-CSS-02-Challenge/activities/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png)
+![Horiseon photo](/Assets/01-html-css-git-homework-demo.png)
 
 ## Website Link
 
